@@ -21,7 +21,7 @@
     <ClCompile Include="dllmain.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="Directx-9-Hook\D3D9HooK.cpp">
+    <ClCompile Include="D3D9Hook\D3D9Hook.cpp">
       <Filter>D3D9Hook</Filter>
     </ClCompile>
   </ItemGroup>
@@ -32,7 +32,7 @@
     <ClInclude Include="main.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
-    <ClInclude Include="Directx-9-Hook\D3D9Hook.hpp">
+    <ClInclude Include="D3D9Hook\D3D9Hook.hpp">
       <Filter>D3D9Hook</Filter>
     </ClInclude>
   </ItemGroup>

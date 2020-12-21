@@ -144,11 +144,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Directx-9-Hook\D3D9HooK.cpp" />
+    <ClCompile Include="D3D9Hook\D3D9Hook.cpp" />
     <ClCompile Include="dllmain.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Directx-9-Hook\D3D9Hook.hpp" />
+    <ClInclude Include="D3D9Hook\D3D9Hook.hpp" />
     <ClInclude Include="main.h" />
     <ClInclude Include="GTAFuncs.h" />
   </ItemGroup>

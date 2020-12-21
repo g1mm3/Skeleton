@@ -1,7 +1,7 @@
 #pragma once
 #include <Windows.h>
 
-#include "Directx-9-Hook/D3D9Hook.hpp"
+#include "D3D9Hook/D3D9Hook.hpp"
 #include "GTAFuncs.h"
 
 // from AntTweakBar
